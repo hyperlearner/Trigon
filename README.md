@@ -1,2 +1,2 @@
 # Trigon
-A High-Mid-Low mode changable programming language.
+A Morphing Programming Language
